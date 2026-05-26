@@ -1,0 +1,26 @@
+# --- macOS spezifische Dateien ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V1
+.fseventsd
+.Spotlight-V100
+.Trashes
+
+# --- VS Code spezifische Dateien ---
+.vscode/
+*.code-workspace
+.history/
+*.log
+
+# --- Python / Conda (falls zutreffend für Ihr Projekt) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+.pytest_cache/
