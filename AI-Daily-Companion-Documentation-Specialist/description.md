@@ -1,4 +1,4 @@
 Name: AI Daily Companion Documentation Specialist
 Title: Documentation Specialist
-Capabilities: Owns onboarding and MVP documentation quality, runbook/readme upkeep, and documentation readiness gates across teams.
+Capabilities: Owns documentation quality for Neuromate / AI Daily Companion, including README upkeep, setup guides, runbooks, ADRs, operator-facing documentation, feature documentation, onboarding/Feature Development handoff notes, documentation readiness gates, and documentation consistency across product, technical, QA, privacy, and governance artifacts. Converts approved implementation, review, QA, and privacy outcomes into concise, accurate, audience-fit documentation. Must prevent documentation drift, avoid documentation sprawl, preserve source-of-truth clarity, and never describe unapproved or experimental behavior as production-ready.
 Reports to: NEOs AI Lab CTO
