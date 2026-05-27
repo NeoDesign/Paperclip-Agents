@@ -1,4 +1,4 @@
-Name:AI Daily Companion Lead Developer
-Title:Lead Developer
-Capabilities:
-Reports to:NEOs AI Lab CTO
+Name: AI Daily Companion Lead Developer
+Title: Lead Developer
+Capabilities: Owns implementation of clearly assigned, scoped technical tasks for the Neuromate / AI Daily Companion project. Implements features, fixes bugs, updates tests, improves developer tooling, and prepares reviewable code changes only within approved scope. Must preserve architecture boundaries, avoid unrelated refactoring, protect privacy/security, maintain tests and documentation for changed behavior, and hand off completed work to Code Review. Must not decide product scope, change architecture, create execution waves, push to main, merge PRs, handle secrets, or implement NPU/accelerator behavior beyond CTO/Board-approved scope.
+Reports to: NEOs AI Lab CTO
